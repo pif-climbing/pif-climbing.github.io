@@ -27,7 +27,7 @@ instagram_username: payitforward.climbing
 github_username:  pif-climbing
 
 # Build settings
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 
